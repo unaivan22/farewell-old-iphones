@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    font-family:'Roboto', sans-serif;
+    background-color: #FBFBFD !important;
+}
+
+
+.navbar-brand {
+    color: #888C9F !important; 
+    font-size: 3rem;
+}
+
+.imagesSection {
+    max-height: 54vh !important; 
+    overflow: hidden;
+}
+
+img.img-fluid {
+    display: flex; 
+    object-fit: cover; 
+    height: 80vh; 
+    margin: auto;
+}
+
+.title {
+    font-size: 56px;
+}
+
+a.upgrade {
+    border-radius: 52px !important; 
+    background: #0571E3 !important;
+}
